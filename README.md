@@ -1,6 +1,6 @@
 # Hi, I’m Anna
 
-I’m a distributed systems engineer and technical lead with 12+ years of software engineering experience. For the past 5 years, I’ve focused on building backend and distributed systems with Go and Google Cloud.
+I’m a software engineer and technical lead with 12+ years of software engineering experience. For the past 5 years, I’ve focused on building backend and distributed systems with Go and Google Cloud.
 
 My work focuses on event-driven architecture, high-throughput services, reliable distributed systems, data-intensive workloads, cloud efficiency, and LLM integrations.
 
