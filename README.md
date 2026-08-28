@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I’m Anna
 
-<!--
-**asbrodova/asbrodova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a distributed systems engineer and hands-on technical lead with
+12+ years of experience building backend systems in Go and Google Cloud.
 
-Here are some ideas to get you started:
+My work focuses on event-driven architecture, high-throughput services,
+reliability, data-intensive workloads, and cloud efficiency.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured open-source work
+
+### [Aura Tracker GCP](https://github.com/asbrodova/aura-tracker-gcp)
+
+An open-source, self-hosted intelligence engine for Google Cloud.
+Aura investigates live infrastructure, failures, security posture,
+architecture, and cost, then returns prioritized conclusions backed
+by inspectable evidence.
+
+- Written in Go
+- Self-hosted and model-agnostic
+- Multi-environment GCP investigations
+- Architecture, reliability, security, and cost analysis
+
+[Explore Aura](https://github.com/asbrodova/aura-tracker-gcp) ·
+[Visit my portfolio](https://asbrodova.dev/)
+
+## Technical writing
+
+- [The Complete—but Not Boring—Book of Go Auth](https://medium.com/techtrends-digest/the-complete-but-not-boring-book-of-go-auth-core-fundamentals-9a0219c59bc6)
+- [Building a Safe Transactional Inbox for Google Pub/Sub](https://medium.com/code-like-a-girl/the-redelivery-trap-building-a-safe-transactional-inbox-for-google-pub-sub-bb9ce38fe229)
+- [Building a Scalable Transactional Outbox for Google Pub/Sub](https://medium.com/@asbrodova/the-dual-write-problem-building-a-scalable-transactional-outbox-for-google-pub-sub-c53121e6cc21)
+
+## Contact
+
+[Website](https://asbrodova.dev/) · [LinkedIn](https://www.linkedin.com/in/anna-sbrodova/)
